@@ -4,6 +4,10 @@ images du rendu main.cpp avec les fonctions demandées dans la feuille
 
 ## Screenshots des tests
 
-![Test 1](image0.png) ![Test 2](image1.png) ![Test 3](image3.png)
+<p align="center">
+<img src="image0.png" width="30%">
+<img src="image1.png" width="30%"> 
+<img src="image3.png" width="30%">
+</p>
 
 voir image*.png pour les tests complets
