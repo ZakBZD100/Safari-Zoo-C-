@@ -1,0 +1,16 @@
+# visual studio
+.vs/
+x64/
+*.user
+*.exe
+*.obj
+*.pdb
+
+# build artifacts
+Debug/
+Release/
+
+# ignore pdf, docs
+*.pdf
+*.docx
+*.txt
